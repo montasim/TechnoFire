@@ -1,0 +1,127 @@
+/*===== Theme Color =====*/
+/*===== Background Color =====*/
+.theme-bg,
+.theme-btn,
+.theme-bg-layer:before,
+.rspn-scil > li a:hover,
+.rspn-mnu-cls:hover,
+.preloader,
+.scl1 > a:before,
+.srch-cls-btn:hover,
+.abt-desc > ul li:before,
+.camp-bx .prg-wrp > a.theme-btn:before,
+.vdo-car .owl-nav > div:hover,
+.vdo-car .owl-nav > div:focus,
+.fcts-lst > li span:before,
+.tm-bx:hover .tm-inf,
+.scl3 > a:before,
+.pagination > li.page-item a.page-link:hover,
+.pagination > li.page-item a.page-link:focus,
+.pagination > li.page-item span,
+.evnt-bx2 .evnt-inf > a.theme-btn:before,
+.evnt-bx2:hover .countdown > li,
+.evnt-bx2:hover .pst-mta-wrp .evnt-dat > a,
+.scl4 > a:hover,
+.scl4 > a:focus,
+.abt-img.style2:before,
+.member-expr-lst > li:before,
+.tag-clouds > a:before,
+a.comment-reply-link:before,
+.event-detail-img ul.countdown > li,
+.ltst-evnt ul.countdown > li,
+.ltst-evnt-car .owl-nav > div:hover,
+.ltst-evnt-car .owl-nav > div:focus,
+.preloader,
+.tm-bx2 .tm-thmb > h4,
+.rspn-mnu-btn {
+  background-color: #f64243;
+}
+
+ {
+  background: #f64243;
+}
+
+/*===== Text Color =====*/
+.theme-clr,
+.rsnp-mnu ul > li > a:focus,
+.rsnp-mnu ul > li:hover > a,
+.rsnp-mnu ul > li.active > a,
+.rspn-srch > button:hover,
+.rsnp-mnu ul li.menu-item-has-children.active:before,
+.tp-lst > li a:hover,
+.tp-lst > li a:focus,
+.header-search > form button:hover,
+.header-search > form button:focus,
+.srv-inf > h5 a:hover,
+.srv-inf > h5 a:focus,
+.srv-inf > a:hover,
+.srv-inf > a:focus,
+.camp-inf > h5 a:hover,
+.camp-inf > h5 a:focus,
+.vdo-bx > a:hover,
+.vdo-bx > a:focus,
+.blg-inf > h6 a:hover,
+.blg-inf > h6 a:focus,
+.blg-inf > a:hover,
+.blg-inf > a:focus,
+.pst-mta > li a:hover,
+.pst-mta > li a:focus,
+.evnt-inf > h5 a:hover,
+.evnt-inf > h5 a:focus,
+.evnt-inf > a:hover,
+.evnt-inf > a:focus,
+.ltst-nws-inf > h6 a:hover,
+.ltst-nws-inf > h6 a:focus,
+.ltst-nws-inf > span a:hover,
+.ltst-nws-inf > span a:focus,
+.wdgt-bx > ul li:hover > a,
+.wdgt-bx > ul li a:focus,
+.cpyrgt p a:hover,
+.cpyrgt p a:focus,
+.scribe-frm > button:hover,
+.scribe-frm > button:focus,
+.breadcrumb > li > a:hover,
+.breadcrumb > li > a:focus,
+.cnt-inf-lst > li a:hover,
+.cnt-inf-lst > li a:focus,
+.toggle-item > h6 i,
+.toggle-item > h6.active,
+.rspn-cnt > span a:hover,
+.rspn-cnt > span a:focus,
+.tm-inf2 > h5 a:hover,
+.tm-inf2 > h5 a:focus,
+.rspn-mnu-btn:hover {
+  color: #f64243;
+}
+
+/*===== Border Color =====*/
+.theme-brd-clr,
+.tl-shp > i.theme-brd-clr,
+.pagination > li.page-item a.page-link:hover,
+.pagination > li.page-item a.page-link:focus,
+.pagination > li.page-item span {
+  border-color: #f64243;
+}
+
+/*===== Border Top Color =====*/
+.tl-shp:before {
+  border-top-color: #f64243;
+}
+
+/*===== Border Right Color =====*/
+
+ {
+  border-right-color: #f64243;
+}
+
+/*===== Border Bottom Color =====*/
+
+ {
+  border-bottom-color: #f64243;
+}
+
+/*===== Border Left Color =====*/
+
+ {
+  border-left-color: #f64243;
+}

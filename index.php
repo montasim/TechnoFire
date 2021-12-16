@@ -1,0 +1,13 @@
+<?php
+    require_once'includes/head.php';
+    require_once'includes/header.php';
+    require_once'includes/slider.php';
+    require_once'includes/aboutTechnofire.php';
+    require_once'includes/services&Facilities.php';
+    require_once'includes/ourClients.php';
+    require_once'includes/gallery.php';
+    require_once'includes/fewFacts.php';
+    require_once'includes/technofireTeam.php';
+    require_once'includes/footer.php';
+    require_once'includes/scripts.php';
+?>
