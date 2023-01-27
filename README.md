@@ -1,4 +1,4 @@
-<img src="https://gists-readme.yizack.com/api/pin?user=montasim&id=TechnoFire&owner=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=dark"/>
 
 <table>
     <thead align="center">
