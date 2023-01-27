@@ -1,39 +1,51 @@
 <img src="https://gists-readme.yizack.com/api/pin?user=montasim&id=TechnoFire&owner=true&theme=dark"/>
 
 <table>
-        <thead align="center">
-            <tr border: none;>
-                <td><b>:pushpin: Name</b></td>
-                <td><b>Description</b></td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><b>:star: Stars</b></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/TechnoFire"/></td>
-            </tr>
-            <tr>
-                <td><b>:sparkles: Forks</b></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/TechnoFire"/></td>
-            </tr>
-            <tr>
-                <td><b>:clock1: Last Commits</b></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/TechnoFire"/></td>
-            </tr>
-            <tr>
-                <td><b>:briefcase: Repo Size</b></td>
-                <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/TechnoFire"/></td>
-            </tr>
-            <tr>
-                <td><b>:globe_with_meridians: Live Link</b></td>
-                <td>
-                    <a href="https://github.com/montasim/TechnoFire">
-                        <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/TechnoFire"/>
-                    </a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>:pushpin: Name</b></td>
+            <td><b>Description</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>:star: Stars</b></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/TechnoFire"/></td>
+        </tr>
+        <tr>
+            <td><b>:sparkles: Forks</b></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/TechnoFire"/></td>
+        </tr>
+        <tr>
+            <td><b>Contributors</b></td>
+            <td><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/montasim/TechnoFire" /></td>
+        </tr>
+        <tr>
+            <td><b> Pull Requests</b></td>
+            <td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/montasim/TechnoFire" /></td>
+        </tr>
+        <tr>
+            <td><b> Issues</b></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/TechnoFire" /></td>
+        </tr>
+        <tr>
+            <td><b>:clock1: Last Commits</b></td>
+            <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/TechnoFire"/></td>
+        </tr>
+        <tr>
+            <td><b>:briefcase: Repo Size</b></td>
+            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/TechnoFire"/></td>
+        </tr>
+        <tr>
+            <td><b>:globe_with_meridians: Live Link</b></td>
+            <td>
+                <a href="https://github.com/montasim/TechnoFire">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/TechnoFire"/>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 
