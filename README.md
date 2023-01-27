@@ -1,3 +1,42 @@
+<img src="https://gists-readme.yizack.com/api/pin?user=montasim&id=TechnoFire&owner=true&theme=dark"/>
+
+<table>
+        <thead align="center">
+            <tr border: none;>
+                <td><b>:pushpin: Name</b></td>
+                <td><b>Description</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><b>:star: Stars</b></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/TechnoFire"/></td>
+            </tr>
+            <tr>
+                <td><b>:sparkles: Forks</b></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/TechnoFire"/></td>
+            </tr>
+            <tr>
+                <td><b>:clock1: Last Commits</b></td>
+                <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/TechnoFire"/></td>
+            </tr>
+            <tr>
+                <td><b>:briefcase: Repo Size</b></td>
+                <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/TechnoFire"/></td>
+            </tr>
+            <tr>
+                <td><b>:globe_with_meridians: Live Link</b></td>
+                <td>
+                    <a href="https://github.com/montasim/TechnoFire">
+                        <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/TechnoFire"/>
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
 # TechnoFire
 
 ### Admin 
@@ -5,31 +44,54 @@
 - UserName    : admin@technofire.com
 - Password    : admin@technofire.com
 
-<br>
-<br>
+<br/>
+<br/>
 
-<!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎  -->
-<h2 align="right"><b> 🔸 Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ  </b></h2>
+<h2 align="right"><b> :large_red_diamond: Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ  </b></h2>
 
-[//]: # "handshake gif"
+<br/>
+<br/>
 
-<img align="left" alt="handshake gif" src="https://github.com/montasim/montasim/blob/main/media/gif/handshaking.gif?raw=true" width="220px">
- 
-<br>
-<br>
-<br>
-
+<!-- social media links start -->
 <table align="right">
-    <thead>
+    <thead align="center">
         <tr>
-            <th align="center"><a href="https://www.linkedin.com/in/montasim"><img align="center" alt="LinkedIn" width="35px" src="https://github.com/montasim/montasim/raw/main/media/icons/linkedin.svg"/></a></th>
-	        <th align="center"><a href="https://www.github.com/montasim"><img align="center" alt="Github - montasim" width="35px"   src="https://github.com/montasim/montasim/raw/main/media/icons/github.svg"/></a></th>
-            <th align="center"><a href="https://stackoverflow.com/users/10429621/coderaid"><img align="center" alt="Stackoverflow - coderaid" width="35px" src="https://github.com/montasim/montasim/raw/main/media/icons/stackoverflow.svg"/></a></th>
-            <th align="center"><a href="https://montasim-dev.web.app/"><img align="center" alt="Website - montasim-dev.web.app/" width="35px" src="https://github.com/montasim/montasim/raw/main/media/icons/web.svg"/></a></th>
-            <th align="center"><a href="mailto:montasimmamun@gmail.com"><img align="center" alt="Gmail - montasimmamun@gmail.com" width="35px" src="https://github.com/montasim/montasim/raw/main/media/icons/gmail.svg"/></a></th>
-            <th align="center"><a href="https://twitter.com/montasimmamun"><img align="center" alt="Twitter - montasim" width="35px" src="https://github.com/montasim/montasim/raw/main/media/icons/twitter.svg"/></a></th>
-            <th align="center"><a href="https://www.facebook.com/montasimmamun/"><img align="center" alt="Facebook - montasimmamun" width="35px" src="https://github.com/montasim/montasim/raw/main/media/icons/facebook.svg"/></a></th>
+            <th>
+                <a href="https://www.linkedin.com/in/montasim">
+                <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin" width="40px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.github.com/montasim">
+                <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="40px">
+                </a>
+            </th>
+            <th>
+                <a href="https://stackoverflow.com/users/20348607/montasim">
+                <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow" width="40px">
+                </a>
+            </th>
+            <th>
+                <a href="https://montasim-dev.web.app/">
+                <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome" width="40px">
+                </a>
+            </th>
+            <th>
+                <a href="mailto:montasimmamun@gmail.com">
+                <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail" width="40px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.facebook.com/montasimmamun/">
+                <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook" width="40px">
+                </a>
+            </th>
+            <th>
+                <a href="https://twitter.com/montasimmamun">
+                <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter" width="40px">
+                </a>
+            </th>
         </tr>
     </thead>
 </table>
-<!-- end Connect With Me -->
+<!-- social media links end -->
