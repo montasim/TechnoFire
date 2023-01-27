@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-<h2 align="right"><b> :large_red_diamond: Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ  </b></h2>
+<h2 align="right"><b> :large_orange_diamond: Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ  </b></h2>
 
 <br/>
 <br/>
